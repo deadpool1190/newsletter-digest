@@ -3,11 +3,12 @@
 ## Open threads
 topic | first seen | sources | runs | status | last mentioned
 
-Astra and Fable 5.1 as planner-class models | 2026-09-06 | The Leverage, SHORTCUTS, ben's bites | 1 | open | 2026-09-06
-Plan with expensive model, execute with cheap | 2026-09-06 | The Leverage, SHORTCUTS, Ben's Bites | 2 | open | 2026-09-11
-Agent persistence as the next phase | 2026-09-06 | SHORTCUTS, The Leverage, Ben's Bites | 2 | open | 2026-09-18
-Mass-scale agent swarms doing research-grade work (10k+ concurrent agents, Navier-Stokes proof) | 2026-09-11 | The Leverage, Ben's Bites | 1 | open | 2026-09-11
-Four AI labs (Anthropic, xAI, OpenAI, DeepMind) publicly endorse pacing/slowing AI development | 2026-09-18 | The Leverage, Noahpinion | 1 | open | 2026-09-18
+Astra and Fable 5.1 as planner-class models | 2026-09-06 | The Leverage, SHORTCUTS, ben's bites | 1 | open, quiet 3 runs (flag for closure next run) | 2026-09-06
+Plan with expensive model, execute with cheap | 2026-09-06 | The Leverage, SHORTCUTS, Ben's Bites | 2 | open, quiet 2 runs | 2026-09-11
+Agent persistence as the next phase | 2026-09-06 | SHORTCUTS, The Leverage, Ben's Bites | 3 | open | 2026-09-25
+Mass-scale agent swarms doing research-grade work (10k+ concurrent agents, Navier-Stokes proof) | 2026-09-11 | The Leverage, Ben's Bites | 1 | open, quiet 2 runs | 2026-09-11
+Four AI labs (Anthropic, xAI, OpenAI, DeepMind) publicly endorse pacing/slowing AI development | 2026-09-18 | The Leverage, Noahpinion, Ben's Bites (Accenture evaluators inside Anthropic) | 2 | open | 2026-09-25
+Muse (Meta) and agentic AI disrupting fee-based intermediaries | 2026-09-25 | Ben's Bites, Market Sentiment | 1 | open | 2026-09-25
 
 ## Candidates (single source, promote on second)
 AI self-preference bias in model outputs | The Leverage | 2026-09-06

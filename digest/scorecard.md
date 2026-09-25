@@ -1,7 +1,7 @@
 # Scorecard
 
 ## Unsubscribe candidates (scanned 4+ times, never shortlisted)
-(none yet, insufficient run history — kenklippenstein@substack.com and thedankoe@substack.com are 2-for-2 with zero shortlisted so far)
+(none yet, insufficient run history — kenklippenstein@substack.com and thedankoe@substack.com are 3-for-3 with zero shortlisted so far; recomendo@substack.com and thefourthquarter@mail.thefourthquarter.co are 2-for-2 with zero shortlisted)
 
 ## Log
 date | source | issues seen | shortlisted | used in digest
@@ -36,3 +36,21 @@ date | source | issues seen | shortlisted | used in digest
 2026-09-18 | thedankoe@substack.com | 1 | 0 | 0
 2026-09-18 | g@latecheckout.studio | 1 | 0 | 0
 2026-09-18 | mrowean@substack.com | 1 | 1 | 1
+2026-09-25 | bensbites@substack.com | 3 | 2 | 2
+2026-09-25 | barefoodtim@substack.com | 2 | 0 | 2
+2026-09-25 | noahpinion@substack.com | 4 | 0 | 1
+2026-09-25 | thefourthquarter@mail.thefourthquarter.co | 1 | 0 | 0
+2026-09-25 | kenklippenstein@substack.com | 2 | 0 | 0
+2026-09-25 | hello@deeplearning.ai | 1 | 0 | 0
+2026-09-25 | chaoticnatural@substack.com | 1 | 0 | 1
+2026-09-25 | improvebypathsofstoicism@substack.com | 2 | 0 | 2
+2026-09-25 | drjuliefratantoni@substack.com | 1 | 0 | 1
+2026-09-25 | crewgtm@mail.beehiiv.com | 1 | 1 | 1
+2026-09-25 | kylepoyar@mail.growthunhinged.com | 2 | 2 | 2
+2026-09-25 | gtmedownload@substack.com | 1 | 0 | 0
+2026-09-25 | recomendo@substack.com | 1 | 0 | 0
+2026-09-25 | thedankoe@substack.com | 1 | 0 | 0
+2026-09-25 | mrowean@substack.com | 1 | 1 | 1
+2026-09-25 | theleverage@substack.com | 1 | 1 | 1
+2026-09-25 | marketsentiment@substack.com | 1 | 1 | 1
+2026-09-25 | divergentkellywrites@substack.com | 1 | 0 | 1
