@@ -1,8 +1,11 @@
 # Scorecard
 
 ## Unsubscribe candidates (scanned 4+ times, never shortlisted)
-kenklippenstein@substack.com — 4 runs, 10 issues seen, 0 shortlisted.
-Approaching: thedankoe@substack.com (3-for-3, not seen this run); recomendo@substack.com (3-for-3); thefourthquarter@mail.thefourthquarter.co (3-for-3); gtmedownload@substack.com (2-for-2); patrickwolff@substack.com (2-for-2, had real content this run but cut for shortlist cap, not a quality issue).
+kenklippenstein@substack.com — 5 runs, 12 issues seen, 0 shortlisted.
+thedankoe@substack.com — 4 runs, 6 issues seen, 0 shortlisted.
+recomendo@substack.com — 4 runs, 4 issues seen, 0 shortlisted.
+thefourthquarter@mail.thefourthquarter.co — 4 runs, 4 issues seen, 0 shortlisted.
+Approaching: gtmedownload@substack.com (3-for-3); hello@deeplearning.ai (3-for-3); patrickwolff@substack.com (2-for-2, had real content once but cut for shortlist cap, not a quality issue).
 
 ## Log
 date | source | issues seen | shortlisted | used in digest
@@ -79,3 +82,23 @@ date | source | issues seen | shortlisted | used in digest
 2026-10-02 | gregsletter@latecheckout.studio | 1 | 0 | 0
 2026-10-02 | gabriellepalmeri@substack.com | 1 | 0 | 1
 2026-10-02 | mrowean@substack.com | 1 | 1 | 1
+2026-10-09 | gtmedownload@substack.com | 2 | 0 | 0
+2026-10-09 | barefoodtim@substack.com | 2 | 0 | 2
+2026-10-09 | noahpinion@substack.com | 4 | 1 | 2
+2026-10-09 | thefourthquarter@mail.thefourthquarter.co | 1 | 0 | 0
+2026-10-09 | thedankoe@substack.com | 2 | 0 | 0
+2026-10-09 | hello@deeplearning.ai | 2 | 0 | 0
+2026-10-09 | marketsentiment@substack.com | 1 | 1 | 1
+2026-10-09 | bensbites@substack.com | 2 | 2 | 2
+2026-10-09 | crewgtm@mail.withcrew.blog | 1 | 1 | 1
+2026-10-09 | kenklippenstein@substack.com | 2 | 0 | 0
+2026-10-09 | drjuliefratantoni@substack.com | 1 | 0 | 1
+2026-10-09 | improvebypathsofstoicism@substack.com | 2 | 0 | 2
+2026-10-09 | chaoticnatural@substack.com | 1 | 0 | 1
+2026-10-09 | kylepoyar@mail.growthunhinged.com | 1 | 1 | 1
+2026-10-09 | gregisenberg@mail.kit.com | 1 | 0 | 0
+2026-10-09 | divergentkellywrites@substack.com | 1 | 0 | 1
+2026-10-09 | recomendo@substack.com | 1 | 0 | 0
+2026-10-09 | gabriellepalmeri@substack.com | 1 | 0 | 1
+2026-10-09 | mrowean@substack.com | 1 | 1 | 1
+2026-10-09 | theleverage@substack.com | 1 | 1 | 1
