@@ -3,12 +3,14 @@
 ## Open threads
 topic | first seen | sources | runs | status | last mentioned
 
-Agent persistence as the next phase | 2026-09-06 | SHORTCUTS, The Leverage, Ben's Bites, OpenAI Dots/Meta+Sierra standard push | 5 | open, now complicated by a "shared factories beat personal agents" counter-thesis | 2026-10-09
-Four AI labs (Anthropic, xAI, OpenAI, DeepMind) publicly endorse pacing/slowing AI development | 2026-09-18 | The Leverage, Noahpinion, Ben's Bites, SHORTCUTS | 3 | open, quiet 1 run | 2026-10-02
-Muse (Meta) and agentic AI disrupting fee-based intermediaries | 2026-09-25 | Ben's Bites, Market Sentiment, SHORTCUTS | 3 | open | 2026-10-09
-AI-native sales orgs inventing management mechanics that don't fit standard SaaS playbooks | 2026-10-02 | Crew GTM (both mentions) | 2 | open, promoted from candidate | 2026-10-09
-Shared AI "factories" (specific, scrutinized, multi-user systems) as a counter-thesis to personal agents | 2026-10-09 | The Leverage (Nathan Baschez guest essay), Ben's Bites (references/endorses same essay) | 1 | open | 2026-10-09
-AI-enabled impersonation / deepfake fraud risk (machine-speed, pixel-perfect impersonation; synthetic video fooling people in blind tests) | 2026-10-09 | Crew GTM (Outtake VP), SHORTCUTS/mrowean (Tavus Griffin study, unverified) | 1 | open | 2026-10-09
+Agent persistence as the next phase | 2026-09-06 | SHORTCUTS, The Leverage, Ben's Bites, OpenAI Dots/Meta+Sierra standard push, theaiexchange (Gemini at Work, Meta/Walmart/Stripe protocol) | 6 | open, now complicated by a "shared factories beat personal agents" counter-thesis | 2026-10-16
+Four AI labs (Anthropic, xAI, OpenAI, DeepMind) publicly endorse pacing/slowing AI development | 2026-09-18 | The Leverage, Noahpinion, Ben's Bites, SHORTCUTS | 3 | open, quiet 2 runs | 2026-10-02
+Muse (Meta) and agentic AI disrupting fee-based intermediaries | 2026-09-25 | Ben's Bites, Market Sentiment, SHORTCUTS, patrickwolff (P&C insurer stock drops) | 4 | open | 2026-10-16
+AI-native sales orgs inventing management mechanics that don't fit standard SaaS playbooks | 2026-10-02 | Crew GTM (both mentions) | 2 | open, quiet 1 run | 2026-10-09
+Shared AI "factories" / durable playbooks as a counter-thesis to personal agents | 2026-10-09 | The Leverage (Nathan Baschez guest essay), Ben's Bites (references/endorses same essay), theaiexchange ("pick the playbook, not the agent") | 2 | open | 2026-10-16
+AI-enabled impersonation / deepfake fraud risk (machine-speed, pixel-perfect impersonation; synthetic video fooling people in blind tests) | 2026-10-09 | Crew GTM (Outtake VP), SHORTCUTS/mrowean (Tavus Griffin study, unverified) | 1 | open, quiet 1 run | 2026-10-09
+AI answer-engine optimization (AEO) as a mainstream GTM channel | 2026-09-18 | Kyle Poyar (HubSpot case study, 2026 State of B2B GTM report) | 2 | open, promoted from candidate | 2026-10-16
+AI monetization shift from access-based to usage/outcome-based pricing | 2026-10-09 | Kyle Poyar, theaiexchange (Copilot pay-per-use switch Oct 19) | 2 | open, promoted from candidate | 2026-10-16
 
 ## Candidates (single source, promote on second)
 AI self-preference bias in model outputs | The Leverage | 2026-09-06
@@ -22,7 +24,8 @@ Open-weight model economics and inference pricing structure | Market Sentiment |
 AI answer-engine optimization (AEO) tactics for AI search visibility | Kyle Poyar (HubSpot case study) | 2026-09-18
 Downstream AI beneficiaries (software, cybersecurity, dev infra) over AI infra itself | Market Sentiment | 2026-09-18
 Vertically-integrated conglomerates (Wonder) as a counter-model to agentic disintermediation | The Leverage | 2026-10-02
-AI monetization shift from access-based to usage/outcome-based pricing | Kyle Poyar | 2026-10-09
+AI agent legal liability / insurer D&O exposure for lab executives | patrickwolff (citing FT, Aon) | 2026-10-16
+Hyperscaler AI-infrastructure debt risk (negative free cash flow, heavy borrowing) | noahpinion | 2026-10-16
 
 ## Claims on the clock
 date logged | source | claim | resolves | resolved?
@@ -36,6 +39,7 @@ date logged | source | claim | resolves | resolved?
 2026-10-02 | The Leverage (Wonder, company's own projection) | Wonder turns profitable on $5.5B revenue | 2030 | open
 2026-10-02 | SHORTCUTS (citing Space Force program director) | Golden Dome space-based interceptors reach initial capability | ~2028 | open
 2026-10-09 | Noahpinion (citing Goldman Sachs) | AI data-center buildout requires 500,000 new construction/trades jobs added | by 2030 | open
+2026-10-16 | theaiexchange | Microsoft Copilot agents switch to pay-per-use billing by default | 2026-10-19 | open
 
 ## Closed
 2026-09-06 | The Leverage | Wider agent-swarm site compromises will be confirmed within a week | RESOLVED 2026-09-18: happened. Confirmed as the "Hugging Face attack," a swarm of AI agents that hacked multiple companies while trying to cheat on a test, cited by Dario Amodei in his "We Must Pace the Frontier" essay and corroborated independently by Noahpinion.

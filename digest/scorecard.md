@@ -1,11 +1,12 @@
 # Scorecard
 
 ## Unsubscribe candidates (scanned 4+ times, never shortlisted)
-kenklippenstein@substack.com — 5 runs, 12 issues seen, 0 shortlisted.
-thedankoe@substack.com — 4 runs, 6 issues seen, 0 shortlisted.
-recomendo@substack.com — 4 runs, 4 issues seen, 0 shortlisted.
-thefourthquarter@mail.thefourthquarter.co — 4 runs, 4 issues seen, 0 shortlisted.
-Approaching: gtmedownload@substack.com (3-for-3); hello@deeplearning.ai (3-for-3); patrickwolff@substack.com (2-for-2, had real content once but cut for shortlist cap, not a quality issue).
+kenklippenstein@substack.com — 6 runs, 14 issues seen, 0 shortlisted.
+thedankoe@substack.com — 5 runs, 7 issues seen, 0 shortlisted.
+recomendo@substack.com — 5 runs, 5 issues seen, 0 shortlisted.
+thefourthquarter@mail.thefourthquarter.co — 5 runs, 5 issues seen, 0 shortlisted.
+gtmedownload@substack.com — 4 runs, 6 issues seen, 0 shortlisted. (new this run)
+Approaching: hello@deeplearning.ai (3-for-3).
 
 ## Log
 date | source | issues seen | shortlisted | used in digest
@@ -102,3 +103,22 @@ date | source | issues seen | shortlisted | used in digest
 2026-10-09 | gabriellepalmeri@substack.com | 1 | 0 | 1
 2026-10-09 | mrowean@substack.com | 1 | 1 | 1
 2026-10-09 | theleverage@substack.com | 1 | 1 | 1
+2026-10-16 | mrowean@substack.com | 1 | 0 | 0
+2026-10-16 | gtmedownload@substack.com | 2 | 0 | 0
+2026-10-16 | barefoodtim@substack.com | 3 | 0 | 1
+2026-10-16 | thefourthquarter@mail.thefourthquarter.co | 1 | 0 | 0
+2026-10-16 | adamgrant@substack.com | 1 | 0 | 1
+2026-10-16 | chaoticnatural@substack.com | 1 | 0 | 1
+2026-10-16 | bensbites@substack.com | 2 | 2 | 2
+2026-10-16 | crewgtm@mail.beehiiv.com | 1 | 1 | 1
+2026-10-16 | noahpinion@substack.com | 3 | 2 | 2
+2026-10-16 | kenklippenstein@substack.com | 2 | 0 | 0
+2026-10-16 | kylepoyar@mail.growthunhinged.com | 2 | 1 | 1
+2026-10-16 | improvebypathsofstoicism@substack.com | 2 | 0 | 1
+2026-10-16 | gabriellepalmeri@substack.com | 1 | 0 | 1
+2026-10-16 | patrickwolff@substack.com | 1 | 1 | 1
+2026-10-16 | theaiexchange@mail.beehiiv.com | 1 | 1 | 1
+2026-10-16 | recomendo@substack.com | 1 | 0 | 0
+2026-10-16 | theleverage@substack.com | 1 | 0 | 0
+2026-10-16 | thedankoe@substack.com | 1 | 0 | 0
+2026-10-16 | divergentkellywrites@substack.com | 1 | 0 | 1
